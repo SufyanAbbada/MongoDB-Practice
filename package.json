@@ -1,0 +1,26 @@
+{
+  "name": "MongoDB-Practice",
+  "version": "1.0.0",
+  "description": "Exploring the features of MongoDB",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.25",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SufyanAbbada/MongoDB-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SufyanAbbada/MongoDB-Practice/issues"
+  },
+  "homepage": "https://github.com/SufyanAbbada/MongoDB-Practice#readme"
+}
